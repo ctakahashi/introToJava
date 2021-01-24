@@ -1,0 +1,12 @@
+Review
+- Primary Data types: int, long, short, double, float, char, byte, boolean
+- Modulus % 
+- Binary numbers
+
+Programming problem
+#3 - Change calculator
+
+New
+- Type casting
+- Variable: declaration + assignment
+- Classes/Objects
